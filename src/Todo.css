@@ -95,7 +95,7 @@
     font-size: 18px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     #root {
         padding: 0;
     }
